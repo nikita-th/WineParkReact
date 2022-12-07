@@ -1,0 +1,41 @@
+const Data = {
+    productItems:[
+        {
+            id:"1",
+            name:"Wine1",
+            price:"999",
+            image:"./images/img1.jpg"
+        },
+        {
+            id:"2",
+            name:"Wine1",
+            price:"999",
+            image:"./images/img2.jpg"
+        },
+        {
+            id:"3",
+            name:"Wine1",
+            price:"999",
+            image:"./images/img3.jpg"
+        },
+        {
+            id:"4",
+            name:"Wine1",
+            price:"999",
+            image:"./images/img4.jpg"
+        },
+        {
+            id:"5",
+            name:"Wine1",
+            price:"999",
+            image:"./images/img5.jpg"
+        },
+        {
+            id:"6",
+            name:"Wine1",
+            price:"999",
+            image:"./images/img6.jpg"
+        },
+    ]
+};
+export default Data;
